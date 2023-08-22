@@ -13,8 +13,8 @@ def get_requirements(file_path:str)-> List[str]:
 
 setup(name='Linear_Regression',
       version='0.0.1',
-      author='Sandeep Vissa',
-      author_email='sandeepsaivissa@gmail.com',
+      author='Linga Reddy',
+      author_email='lingasodana25@gmail.com',
       install_requires = get_requirements('requirements.txt'),
       packages=find_packages()
       )
